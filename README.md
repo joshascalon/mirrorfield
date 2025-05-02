@@ -6,6 +6,8 @@ When you interact with Field Mirror, you are not drawing—you are returning. Ea
 
 This project is based on a recursive equation that embodies Gaussian decay, harmonic summation, contour integration, and zeta residue. All rendered in real-time.
 
+experienc: https://joshascalon.github.io/mirrorfield/
+
 🖱 Interaction Guide
 - **Click** to place a memory node
 - **Click again** to reinforce a location
